@@ -47,8 +47,6 @@ Note: if multiple records of the same type are found, only the first record will
 
 3. Make sure you run updateRecords in the editor and not the other functions.
 
-![Results](screenshots/batch-update-fields-2-results.png)
-
 4. The script will report its progress in the second column. There are five possible outcomes:
 
 * updated lead
@@ -56,6 +54,8 @@ Note: if multiple records of the same type are found, only the first record will
 * updated lead and contact
 * failed to update record (please check logs)
 * record not found 
+
+![Results](screenshots/batch-update-fields-2-results.png)
 
 Things to note:
 
