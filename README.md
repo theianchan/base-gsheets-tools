@@ -14,6 +14,8 @@ Note: if multiple records of the same type are found (for example, if multiple L
 
 1. Generate a Personal Access Token in your Base account. If you're having trouble, check out the [documentation](https://developers.getbase.com/docs/rest/articles/oauth2/introduction).
 
+![Generate token](screenshots/email-lookup-1-generate-token.png)
+
 2. Add the code to a new script file, replacing YOUR_API_KEY with the token you just generated.
 
 ![Add token](screenshots/email-lookup-2-add-token.png)
