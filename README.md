@@ -51,11 +51,11 @@ Note: if multiple records of the same type are found, only the first record will
 
 4. The script will report its progress in the second column. There are five possible outcomes:
 
-1. updated lead
-2. updated contact
-3. updated lead and contact
-4. failed to update record (please check logs)
-5. record not found
+* updated lead
+* updated contact
+* updated lead and contact
+* failed to update record (please check logs)
+* record not found 
 
 Things to note:
 
